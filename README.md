@@ -1,2 +1,2 @@
-# Unit-3
+# HelloWorld
 Unit 3 project for Georgia History
